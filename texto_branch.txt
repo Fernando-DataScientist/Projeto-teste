@@ -1,2 +1,5 @@
 texto criado no novo branch
 uma nova linha adicionada no master
+=======
+nova linha feita no branch1
+
